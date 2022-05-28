@@ -126,7 +126,7 @@ set incsearch # show search results as you type
 
 ### About Modes
 
-![vim_modes](/Users/chenzifeng/Downloads/vim_modes.png)
+![vim_modes](https://github.com/NNNeil-C/NNNeil-C.github.io/tree/hexo_source/source/images/vim_modes.png)
 
 ### Basic Changing Text
 
